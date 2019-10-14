@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/likeDislikeButtons/static/css/main.34de6062.chunk.css",
+    "main.js": "/likeDislikeButtons/static/js/main.8f94aebb.chunk.js",
+    "main.js.map": "/likeDislikeButtons/static/js/main.8f94aebb.chunk.js.map",
+    "runtime-main.js": "/likeDislikeButtons/static/js/runtime-main.4ac65813.js",
+    "runtime-main.js.map": "/likeDislikeButtons/static/js/runtime-main.4ac65813.js.map",
+    "static/js/2.fbf6c426.chunk.js": "/likeDislikeButtons/static/js/2.fbf6c426.chunk.js",
+    "static/js/2.fbf6c426.chunk.js.map": "/likeDislikeButtons/static/js/2.fbf6c426.chunk.js.map",
+    "index.html": "/likeDislikeButtons/index.html",
+    "precache-manifest.d198965faaa2c5901343be2145e33d9a.js": "/likeDislikeButtons/precache-manifest.d198965faaa2c5901343be2145e33d9a.js",
+    "service-worker.js": "/likeDislikeButtons/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/likeDislikeButtons/static/css/main.34de6062.chunk.css.map"
+  }
+}
